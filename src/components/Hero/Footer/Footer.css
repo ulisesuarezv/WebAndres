@@ -1,0 +1,9 @@
+#footer {
+  height: 65vh;
+  background-color: var(--background-color);
+  border-top: 1px solid rgb(204, 204, 204);
+}
+
+.footer_container {
+  display: flex;
+}

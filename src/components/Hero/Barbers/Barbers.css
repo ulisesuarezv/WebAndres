@@ -1,0 +1,12 @@
+#barbers {
+  display: flex;
+  height: 180vh;
+  background-color: var(--second-background-color);
+}
+
+.barbers_content {
+  display: flex;
+  flex-direction: column;
+  gap: 20rem;
+  width: 100%;
+}

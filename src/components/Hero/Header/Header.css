@@ -1,0 +1,6 @@
+.header {
+  display: flex;
+  position: fixed;
+
+  height: 18vh;
+}

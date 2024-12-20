@@ -1,0 +1,12 @@
+.principal {
+  border: 1px solid black;
+  /* width: 12rem; */
+  /* height: 4rem; */
+  color: white;
+  background-color: black;
+  font-size: 20px;
+  font-weight: 400;
+  cursor: pointer;
+  font-size: 1.5vw;
+  padding: 1vw 2vw;
+}

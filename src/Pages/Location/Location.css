@@ -1,0 +1,12 @@
+#location {
+  height: 250vh;
+  background-color: var(--background-color);
+}
+
+.title_container {
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,20 @@
+#last_content {
+  height: 60vh;
+  background-color: var(--background-color);
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+.titulo_last {
+  font-size: 12vw;
+  font-weight: 100;
+  cursor: pointer;
+}
+
+h3 {
+  font-size: 2rem;
+  font-weight: 300;
+}
